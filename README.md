@@ -10,6 +10,10 @@ In this page you can find everything related to my career as a software develope
 * I'm developing a framework to interpret natural language and translate it into code snippets.
 * I'm ALWAYS updating this page!
 
+## ✔️ Finished projects
+
+* Nothing yet!
+
 ## 📃 Research
 
 * [N-Queens Linear Time Complexity Conflict Checker](https://github.com/isrand/NQueensLinearTimeComplexityConflictChecker) (June 2020)
