@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi there! 👋
+
+My name is Isra Nebot Dominguez — isrand. I work at IBM in Groningen, The Netherlands as a Senior Blockchain Developer.
+
+I'm currently in the process of getting my `Certified Kubernetes Application Developer (CKAD)` certification.
+
+Here are some links:
+
+* [My CV](https://github.com/isrand/yamlcv/blob/main/cv.yaml)
+
+
+My pronouns are he/him/his.
 
 <!--
 **isrand/isrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
