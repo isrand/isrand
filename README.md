@@ -8,6 +8,7 @@ In this page you can find everything related to my career as a software develope
 
 * As of April 2021 I'm in the process of getting my **Certified Kubernetes Application Developer (CKAD)** certification.
 * I'm developing a framework to interpret natural language and translate it into code snippets.
+* I'm developing a Twitter bot to stop clickbait links.
 * I'm ALWAYS updating this page!
 
 ## ✔️ Finished projects
