@@ -22,7 +22,7 @@ In this page you can find everything related to my career as a software develope
 
 * [My LinkedIn profile](https://linkedin.com/in/isra-nebot)
 * [My CV (YAML)](https://raw.githubusercontent.com/isrand/yamlcv/main/cv.yaml)
-* [My Bandcamp site 🎸](https://isrv.bandcamp.com)
+* [My Bandcamp site 🎸](https://isrand.bandcamp.com)
 
 ## ⚡ Lightning round about me!
 
