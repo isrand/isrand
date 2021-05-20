@@ -13,7 +13,7 @@ In this page you can find everything related to my career as a software develope
 
 ## ✔️ Finished projects
 
-* Nothing yet!
+* [A Twitter bot](https://twitter.com/HookLineClicker) that you can mention in response to a tweet with a clickbaity article headline. The bot will enter the webpage, screenshot its contents and reply to you. No more clickbait, no more ad trackers, more privacy!
 
 ## 📃 Research
 
