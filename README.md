@@ -12,11 +12,15 @@ In this page you can find everything related to my career as a software develope
 
 ## ✔️ Finished projects
 
+### June 2021
+
+### May 2021
 * [A Twitter bot](https://github.com/isrand/HookLineAndClickerInfo) that you can mention in response to a tweet with a clickbaity article headline. The bot will enter the webpage, screenshot its contents and reply to you. No more clickbait, no more ad trackers, more privacy! Use it by mentioning `@HookLineClicker` on Twitter.
 
 ## 📃 Research
 
-* [N-Queens Linear Time Complexity Conflict Checker](https://github.com/isrand/NQueensLinearTimeComplexityConflictChecker) (June 2020)
+### June 2020
+* [N-Queens Linear Time Complexity Conflict Checker](https://github.com/isrand/NQueensLinearTimeComplexityConflictChecker)
 
 ## 🔗 Links
 
