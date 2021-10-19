@@ -19,7 +19,7 @@ My name is Isra Nebot Dominguez — isrand. I work at IBM in Groningen, The Neth
 * [N-Queens Linear Time Complexity Conflict Checker](https://github.com/isrand/NQueensLinearTimeComplexityConflictChecker) : An algorithm to quickly verify the validity of a N-Queens board either while it's being solved or once it has been solved. It runs in linear complexity time and is especially performing when treating big boards (n >= 1000).
 
 ### October 2019
-* [A Multi-Layered Map Analysis Approach To Tree Species Distribution In Terrain Generation](https://github.com/isrand/AMultiLayeredMapAnalysisApproachToTreeSpeciesDistributionInTerrainGeneration/blob/master/A%20Multi-Layered%20Map%20Analysis%20Approach%20To%20Tree%20Species%20Distribution%20In%20Terrain%20Generation.pdf)": a research paper in which I explore techinques for realistic terrain generation using the Poisson Disc Distribution algorithm in Unity 3D.
+* [A Multi-Layered Map Analysis Approach To Tree Species Distribution In Terrain Generation](https://github.com/isrand/AMultiLayeredMapAnalysisApproachToTreeSpeciesDistributionInTerrainGeneration/blob/master/A%20Multi-Layered%20Map%20Analysis%20Approach%20To%20Tree%20Species%20Distribution%20In%20Terrain%20Generation.pdf) : a research paper in which I explore techinques for realistic terrain generation using the Poisson Disc Distribution algorithm in Unity 3D.
 
 ## 🔗 Links
 
